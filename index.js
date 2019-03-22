@@ -13,13 +13,11 @@ app.use(morgan('dev'));
 // Advice data
 // TODO: Replace w/ in-memory datastore (ex. Redis)
 const advice = [
-	'Go all out!',
-	'Take it easy!',
-	'Put it off till tomorrow',
-	'Seize the day',
-	'Set it and forget it',
-	'Put 5 on it!',
-	'Meditate on it :)'
+	'Code everyday',
+	'Lab everyday',
+	'Subscribe today',
+	'Connect with me on LinkedIn',
+	'Cybrary is awesome!'
 ];
 
 // Define microservice routes
